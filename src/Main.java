@@ -4,6 +4,7 @@ public class Main {
         int a;
         int ss;
         int qq;
+        int кк;
 
 
         String[] slovo = {"qwe","wer"};
