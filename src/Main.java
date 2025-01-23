@@ -5,6 +5,7 @@ public class Main {
         int ss;
         int qq;
         int кк;
+        int cccc;
 
 
         String[] slovo = {"qwe","wer"};
